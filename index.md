@@ -20,7 +20,5 @@
 <!--この下に第2章の内容を書きます。-->
 <a id="SingTanimura"></a>
 <a href="#SingTanimura">車</a>   
-
 ![外部リンク(ネイマール)](https://upload.wikimedia.org/wikipedia/commons/6/68/Nissan_Moco_2002.JPG)
-
 ![外部リンク(ネイマール)](https://upload.wikimedia.org/wikipedia/commons/8/83/Tesla_Model_3_parked%2C_front_driver_side.jpg)
