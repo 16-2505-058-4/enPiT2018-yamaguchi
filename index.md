@@ -1,6 +1,4 @@
 # hello guys
-![外部リンク(ネイマール)](https://upload.wikimedia.org/wikipedia/commons/2/22/Neymar_Barcelona_presentation_1.jpg)
-![内部リンクへジャンプ")  https://16-2505-058-4.github.io/enPiT2018-yamaguchi/mycar"mycarへジャンプ")  
 <a id="index"></a>
 ## <a href="#index">目次</a>
 * [自分](#index)
@@ -21,4 +19,4 @@
 <!--この下に第2章の内容を書きます。-->
 <a id="SingTanimura"></a>
 <a href="#SingTanimura">車</a>   
-![内部リンクへジャンプ")  https://16-2505-058-4.github.io/enPiT2018-yamaguchi/mycar"mycarへジャンプ")  
+![内部リンクへジャンプ")] (https://16-2505-058-4.github.io/enPiT2018-yamaguchi/mycar"mycarへジャンプ")  
