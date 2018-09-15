@@ -4,6 +4,7 @@
 * [自分](#index)
 * [趣味](#anchor1)
 * [car](#anchor2)
+* [その他](#anchor3)
 
 <a id="anchor1"></a>
 ## <a href="#anchor1">自分</a>  
@@ -23,4 +24,3 @@
 ![外部リンク(ネイマール)](https://upload.wikimedia.org/wikipedia/commons/6/68/Nissan_Moco_2002.JPG)
 
 ![外部リンク(ネイマール)](https://upload.wikimedia.org/wikipedia/commons/8/83/Tesla_Model_3_parked%2C_front_driver_side.jpg)
-
