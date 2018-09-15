@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: 自己紹介
 description:  自己紹介です
 github:
-  is_project_page:false
+  is_project_page: false
